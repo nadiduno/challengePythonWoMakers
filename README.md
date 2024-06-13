@@ -1,5 +1,6 @@
 # challengePythonWoMakers
-Bootcamp Back- End Python - WoMakers Code 
+
+Desafios para selecão do Bootcamp Back- End Python - WoMakers Code 
 
 
 
@@ -8,6 +9,8 @@ Bootcamp Back- End Python - WoMakers Code
 Crie um programa que solicita ao usuário que insira três notas (valores de 0 a 10) e, em seguida, calcule e exiba a média dessas notas.
 
 Além disso, informe ao usuário se ele foi aprovado ou reprovado com base na média das notas, considerando a média mínima de aprovação como 6.
+
+[👩‍💻Código do desafio 1](https://github.com/nadiduno/challengePythonWoMakers/blob/main/media.py)
 
 
 
