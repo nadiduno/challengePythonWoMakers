@@ -10,6 +10,7 @@ Crie um programa que solicita ao usuário que insira três notas (valores de 0 a
 
 Além disso, informe ao usuário se ele foi aprovado ou reprovado com base na média das notas, considerando a média mínima de aprovação como 6.
 
+
 [👩‍💻Código do desafio 1](https://github.com/nadiduno/challengePythonWoMakers/blob/main/media.py)
 
 
@@ -20,6 +21,8 @@ Crie um programa que solicita ao usuário que insira um número inteiro e, em se
 
 O programa deve exibir uma mensagem indicando se o número é par ou ímpar.
 
+
+[👩‍💻Código do desafio 2](https://github.com/nadiduno/challengePythonWoMakers/blob/main/numeropar.py)
 
 
 ## DESAFIO 3
